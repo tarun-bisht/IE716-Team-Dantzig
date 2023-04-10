@@ -1,0 +1,10 @@
+{
+    "solver": "cbc",
+    "solver_binary_path": "/usr/bin/cbc",
+    "city_details_csv": "data/cities_data.csv",
+    "city_distances_csv": "data/cities_distances.csv",
+    "city_demands_csv": "data/cities_demands.csv",
+    "output_map_save_path": "data/",
+    "vehicle_capacity": 600,
+    "depot_index": 0
+}
