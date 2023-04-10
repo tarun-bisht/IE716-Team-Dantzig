@@ -80,6 +80,6 @@ python pdtsp_1.py --config=config.txt
 ### Some Links
 
 - **[Results on 34 cities of Maharastra Demand 1](https://tarun-bisht.github.io/IE716-Team-Dantzig/data/map.html)**
-- **[Results on 34 cities of Maharastra Demand 2](https://tarun-bisht.github.io/IE716-Team-Dantzig/data/map_1.html)**
-- **[Results on 34 cities of Maharastra Demand 3](https://tarun-bisht.github.io/IE716-Team-Dantzig/data/map_2.html)**
-- **[Results on 34 cities of Maharastra Demand 4](https://tarun-bisht.github.io/IE716-Team-Dantzig/data/map_3.html)**
+- **[Results on 34 cities of Maharastra Demand 2](https://tarun-bisht.github.io/IE716-Team-Dantzig/data/map1.html)**
+- **[Results on 34 cities of Maharastra Demand 3](https://tarun-bisht.github.io/IE716-Team-Dantzig/data/map2.html)**
+- **[Results on 34 cities of Maharastra Demand 4](https://tarun-bisht.github.io/IE716-Team-Dantzig/data/map3.html)**
