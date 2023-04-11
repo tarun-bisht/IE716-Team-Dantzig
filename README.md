@@ -1,4 +1,4 @@
-# Travelling Salesman Problem using Integer Programming
+# Single Vehicle Pickup and Delivery Travelling Salesman Problem (1-PDTSP) using Integer Programming
 
 This repository contains code to find solution of Single Vehicle Pickup and Delivery travelling salesman problem (1-PDTSP) using integer programming for any list of cities. 1-PDTSP problem is, given a list of cities and the distances between each pair of cities, what is the shortest possible route that visits each city exactly once and returns to the origin city also fulfilling demands of each node.?
 
