@@ -54,7 +54,7 @@ def generate_map(cities_data, cities_distances, cities_demand=None, polylines=No
 
     mymap.fit_bounds([min_pt, max_pt])
     if polylines is not None:
-        for i in range(len(polylines)-1):
+        for i in range(len(polylines)):
             line = polylines[i]
             # Calculate the bearing between the two points
             start_point = line[0]
@@ -111,7 +111,7 @@ def parse_solution(model: ConcreteModel):
         for j in range(len(model.u)):
             if model.x[i, j].value:
                 if i!=0 or j!=0:
-                    sol_edges.append((i, j))
+                    sol_edges.append((j, i))
                     sol_demands.append(model.f[i, j].value)
     return sol_edges, sol_demands
 
